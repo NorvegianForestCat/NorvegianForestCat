@@ -25,4 +25,4 @@ Specialization: Software Development
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NorvegianForestCat&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NorvegianForestCat)](https://git.io/streak-stats)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=NorvegianForestCat)](https://github.com/stats-organization/github-stats-extended)
